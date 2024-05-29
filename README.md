@@ -3,7 +3,9 @@
 This project is a Streamlit application that extracts transcripts from YouTube videos, summarizes them, translates the summaries, and answers questions based on the video's content. It also offers an option to convert the summary into an audio format.
 
 ![Screenshot1](img1.png)
+
 ![Screenshot 2](img2.png)
+
 ![Screenshot 3](img.png)
 
 ## Features
