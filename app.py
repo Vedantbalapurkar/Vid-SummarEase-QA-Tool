@@ -5,7 +5,8 @@ from gtts import gTTS #audio conversion
 from googletrans import Translator, LANGUAGES
 import base64
 # Set your OpenAI API key here
-openai.api_key = 'your OpenAI API key'
+# openai.api_key = 'your OpenAI API key'
+openai.api_key = st.secrets["openai"]["api_key"]
 
 
 def set_bg_hack(main_bg):
