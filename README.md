@@ -91,8 +91,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please contact [your email address].
+For any questions or feedback, please contact vedantbalapurkar1234@gmail.com.
 
 ---
 
-Feel free to customize this README to better fit your project's specifics.
