@@ -22,7 +22,7 @@ This project is a Streamlit application that extracts transcripts from YouTube v
 
 Ensure you have the following installed:
 
-- Python 3.7+
+- Python 3.10+
 - Streamlit
 - youtube-transcript-api
 - openai
